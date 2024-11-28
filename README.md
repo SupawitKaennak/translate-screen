@@ -1,4 +1,10 @@
 # translate-screen
+
+This program is screen translator.<br>
+![image](https://github.com/user-attachments/assets/32056c17-acd5-4118-ba78-098dddb71b1a)
+
+
+
 Requirement : Tesseract OCR
 
 Library package:<br>
