@@ -56,7 +56,7 @@ def select_crop_area():
 class TranslatorApp:
     def __init__(self):
         self.root = Tk()
-        self.root.title("Real-Time Translator")
+        self.root.title("KTranslator")
         self.root.geometry("800x600")
         self.root.configure(bg="#f0f8ff")  # สีพื้นหลัง
 
@@ -105,7 +105,7 @@ class TranslatorApp:
         }
 
         # Label หัวข้อ
-        Label(self.main_frame, text="Real-Time Translator", font=("Arial", 20, "bold"), bg="#f0f8ff", fg="#4682b4").pack()
+        Label(self.main_frame, text="KTranslator", font=("Arial", 20, "bold"), bg="#f0f8ff", fg="#4682b4").pack()
 
         # Dropdown Menu สำหรับ OCR
         Label(self.main_frame, text="Select OCR Language:", font=("Arial", 12), bg="#f0f8ff", fg="#333333").pack(pady=5)
