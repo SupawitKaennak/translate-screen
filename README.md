@@ -1,6 +1,6 @@
 # translate-screen
 
-This program is screen translator.<br>
+This program is screen translator. I make this program for translate subtitle in game<br>
 
 OLD VERSION<br>
 <img src="https://github.com/user-attachments/assets/32056c17-acd5-4118-ba78-098dddb71b1a" width="300" height="150"><br>
